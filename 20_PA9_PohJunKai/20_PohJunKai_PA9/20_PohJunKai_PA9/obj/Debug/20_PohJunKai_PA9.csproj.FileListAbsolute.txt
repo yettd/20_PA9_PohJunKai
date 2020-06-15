@@ -1,0 +1,10 @@
+C:\Users\qwerty\Desktop\20_PA9_PohJunKai\20_PohJunKai_PA9\20_PohJunKai_PA9\bin\Debug\20_PohJunKai_PA9.exe.config
+C:\Users\qwerty\Desktop\20_PA9_PohJunKai\20_PohJunKai_PA9\20_PohJunKai_PA9\bin\Debug\20_PohJunKai_PA9.exe
+C:\Users\qwerty\Desktop\20_PA9_PohJunKai\20_PohJunKai_PA9\20_PohJunKai_PA9\bin\Debug\20_PohJunKai_PA9.pdb
+C:\Users\qwerty\Desktop\20_PA9_PohJunKai\20_PohJunKai_PA9\20_PohJunKai_PA9\obj\Debug\20_PohJunKai_PA9.csprojAssemblyReference.cache
+C:\Users\qwerty\Desktop\20_PA9_PohJunKai\20_PohJunKai_PA9\20_PohJunKai_PA9\obj\Debug\_20_PohJunKai_PA9.Form1.resources
+C:\Users\qwerty\Desktop\20_PA9_PohJunKai\20_PohJunKai_PA9\20_PohJunKai_PA9\obj\Debug\_20_PohJunKai_PA9.Properties.Resources.resources
+C:\Users\qwerty\Desktop\20_PA9_PohJunKai\20_PohJunKai_PA9\20_PohJunKai_PA9\obj\Debug\20_PohJunKai_PA9.csproj.GenerateResource.cache
+C:\Users\qwerty\Desktop\20_PA9_PohJunKai\20_PohJunKai_PA9\20_PohJunKai_PA9\obj\Debug\20_PohJunKai_PA9.csproj.CoreCompileInputs.cache
+C:\Users\qwerty\Desktop\20_PA9_PohJunKai\20_PohJunKai_PA9\20_PohJunKai_PA9\obj\Debug\20_PohJunKai_PA9.exe
+C:\Users\qwerty\Desktop\20_PA9_PohJunKai\20_PohJunKai_PA9\20_PohJunKai_PA9\obj\Debug\20_PohJunKai_PA9.pdb
