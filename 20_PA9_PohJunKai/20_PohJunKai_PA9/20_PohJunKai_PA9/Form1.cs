@@ -34,6 +34,11 @@ namespace _20_PohJunKai_PA9
                         float convert = amount * 81.97f;
                         textBox2.Text = convert.ToString();
                     }
+                    else if (rb_Ringgit.Checked == true)
+                    {
+                        float convert = amount * 3.1f;
+                        textBox2.Text = convert.ToString();
+                    }
                 }
                 else
                 {

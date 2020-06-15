@@ -38,6 +38,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
+            this.rb_Ringgit = new System.Windows.Forms.RadioButton();
             this.SuspendLayout();
             // 
             // label1
@@ -131,11 +132,22 @@
             this.label4.Size = new System.Drawing.Size(0, 17);
             this.label4.TabIndex = 9;
             // 
+            // rb_Ringgit
+            // 
+            this.rb_Ringgit.AutoSize = true;
+            this.rb_Ringgit.Location = new System.Drawing.Point(229, 219);
+            this.rb_Ringgit.Name = "rb_Ringgit";
+            this.rb_Ringgit.Size = new System.Drawing.Size(140, 21);
+            this.rb_Ringgit.TabIndex = 10;
+            this.rb_Ringgit.Text = "Maylasian Ringgit";
+            this.rb_Ringgit.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.rb_Ringgit);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
@@ -166,6 +178,7 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.RadioButton rb_Ringgit;
     }
 }
 
